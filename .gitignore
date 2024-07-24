@@ -1,0 +1,21 @@
+# Virtual environment
+myenv/
+.myvenv/
+
+# VSCode workspace settings
+.vscode/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution and packaging
+*.egg
+*.egg-info
+dist/
+build/
+
+# Environment variables
+.env
